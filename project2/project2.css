@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: url(./testimonial.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+    padding-top: 0;
+}
+.main{
+    padding-top: 150px;
+    margin-left: 700px;
+}
+.main1{
+    height: 600px;
+    width: 470px;
+    background-color: #2626266c;
+    backdrop-filter: blur(5px);
+    border: dashed #fff 2px;
+    overflow: hidden;
+    overflow-y: scroll;
+    overflow: hidden;
+}
+.main1:hover{
+    background-color:#262626 ;
+  overflow-y: scroll;
+  outline-color: #ffe000;
+}
+.box1{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color:#1A5D1A;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+.box2{
+    height: 220px;
+    width: 220px;
+    background-color:#ff7000c2;
+    top: -50px;
+    left: -30px;
+    border-radius: 50%;
+    border: dashed #fff 2px;
+}
+.main h1{
+    font-size: 35px;
+    color: #fff;
+    float: right;
+     margin-top: 40px;
+     margin-right: 50px;
+}
+.main img{
+    float: right;
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+    margin-top: 90px;
+    margin-right: -169px;
+}
+.main1 h2{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.main1 p{
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 19px;
+    height: 230px;
+    width: 360px;
+}
+.main1 i{
+    color:#ffe000;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+.box3 button{
+    height: 50px;
+    width: 150px;
+    margin-top: 50px;
+    background-color: #ff7000c2;
+    margin-left: 40px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 19px;
+}
+.nimisha i{
+    color: #ffffff;
+    position: absolute;
+    top: 20px;
+    font-size: 70px;
+    left: 20px;
+}
+

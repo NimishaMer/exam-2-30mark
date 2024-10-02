@@ -1,0 +1,20 @@
+Theme-color Code :
+
+1. Orange : #ff7000c2
+2. Green : #1A5D1A
+3. Black : #000000
+4. White : #ffffff
+5. Yellow : #ffe000
+
+Card Hover Color :
+
+1. Light Black : #262626
+
+Icon Code :
+
+1. Quotes : <i class="ri-double-quotes-l"></i>
+2. Start : <i class="ri-star-fill"></i>
+
+Review :
+
+Excellent, working with web designer express was great. Thanks to their knowledge and determination our website looks great and functions really good. I am recommend anyone that is looking for a custom website to give them a call and speak to Gus, he will guide you to the right direction.
